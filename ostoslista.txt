@@ -1,4 +1,4 @@
-Kurkku
+Appelsiini
 perunaa
 Kurkkua
 Maitoa
@@ -7,6 +7,5 @@ Appelsiinia
 Peruna
 Banaani
 Maito
-Omena
 Omena
 Surimi
